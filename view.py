@@ -1,3 +1,3 @@
-print("git_ver_16")
+print("git_ver_18")
 print("hello tintrongnguyen")
 
